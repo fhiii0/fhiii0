@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fhiii0
+- 👀 I’m interested in HTML / CSS / JS 
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me https://twitter.com/benkolsuzum
